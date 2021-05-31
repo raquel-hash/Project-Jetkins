@@ -1,11 +1,8 @@
 print("Ana Raquel Quelca Cadena")
+print("What's your name")\
 
-#def sumList(NumberList){
-#   result =0
-#    for i in NumberList
-#        result=result+i
-#    return result
-#}
+n1=float(input("Intro número uno: "))
+n2=float(input("Intro numero dos: "))
+suma=n1+n2
 
-#print(sumList([1,2,3,4,5]))
-print("What's your name")
+print("La suma es: ",suma)
